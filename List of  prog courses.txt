@@ -1,0 +1,21 @@
+My rosalind Profile: http://rosalind.info/users/logvinata/
+
+Completed programming courses:
+
+Python for Everybody Specialization:
+https://www.coursera.org/specializations/python and https://www.py4e.com/#
+
+Experimental Methods in Systems Biology:
+https://www.coursera.org/learn/experimental-methods
+
+ 
+Bioinformatics: Life Sciences on Your Computer - Johns Hopkins University - closed this year
+
+PH525.1x: Data Analysis for Life Sciences 1: Statistics and R
+
+HarvardX -  PH525.2x - Introduction to Linear Models and Matrix Algebra
+ Both from https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/4bcfe34096ac4429a00cc7b359782e9a/
+
+
+
+
